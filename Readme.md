@@ -1,4 +1,4 @@
-# Glosario de Términos - ISC-SQ
+# Glosario de Términos - ISC-S1
 
 Este repositorio contiene las definiciones fundamentales para el curso, cubriendo conceptos de infraestructura, desarrollo y ciberseguridad.
 
@@ -40,3 +40,4 @@ Este repositorio contiene las definiciones fundamentales para el curso, cubriend
 * [¿Qué es Frontend? - Arsys](https://www.arsys.es/blog/frontend-que-es-y-para-que-se-utiliza-en-desarrollo-web)
 * [Diccionario Cloud: DevOps - Azure](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-devops)
 * [Uso de código Embed - KeepCoding](https://keepcoding.io/blog/que-es-el-codigo-embed-y-como-usarlo/)
+
